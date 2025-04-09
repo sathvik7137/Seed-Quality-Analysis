@@ -10,7 +10,7 @@ env/
 venv/
 
 # Streamlit logs & cache
-.streamlit/
+.streamlit/config.toml
 *.log
 
 # IDE configs
